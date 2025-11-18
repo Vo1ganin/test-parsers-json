@@ -1,0 +1,11 @@
+{
+  "name": "TestParsers #2",
+  "description": "Тестовый токен #2 — дополнительный пример с другими атрибутами.",
+  "image": "https://raw.githubusercontent.com/Vo1ganin/test-parsers/main/assets/2.png",
+  "external_url": "https://example.com/tokens/2",
+  "attributes": [
+    { "trait_type": "Background", "value": "Blue" },
+    { "trait_type": "Rarity", "value": "Common" },
+    { "trait_type": "Power", "value": 42 }
+  ]
+}

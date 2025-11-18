@@ -1,0 +1,11 @@
+{
+  "name": "TestParsers #1",
+  "description": "Тестовый токен #1 — используется для проверки парсеров и отображения метаданных.",
+  "image": "https://raw.githubusercontent.com/Vo1ganin/test-parsers/main/assets/1.png",
+  "external_url": "https://example.com/tokens/1",
+  "attributes": [
+    { "trait_type": "Background", "value": "Space" },
+    { "trait_type": "Rarity", "value": "Rare" },
+    { "trait_type": "Index", "value": 1 }
+  ]
+}

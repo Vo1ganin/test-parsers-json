@@ -1,0 +1,11 @@
+{
+  "name": "TestParsers #3",
+  "description": "Тестовый токен #3 — ещё один пример для проверки парсеров и визуализации.",
+  "image": "https://raw.githubusercontent.com/Vo1ganin/test-parsers/main/assets/3.png",
+  "external_url": "https://example.com/tokens/3",
+  "attributes": [
+    { "trait_type": "Background", "value": "Red" },
+    { "trait_type": "Rarity", "value": "Uncommon" },
+    { "trait_type": "Energy", "value": 60 }
+  ]
+}
